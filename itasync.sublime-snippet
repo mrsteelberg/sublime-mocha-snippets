@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+it("${1:should do what...}", function(done){
+	${0:}
+});
+]]></content>
+    <tabTrigger>itasync</tabTrigger>
+    <scope>source.js</scope>
+    <description>it() testing</description>
+</snippet>
